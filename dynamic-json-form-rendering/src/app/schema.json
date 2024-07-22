@@ -1,0 +1,16 @@
+{
+    "fields": [
+        {
+            "component": "text-field",
+            "name": "firs-name",
+            "label": "First name",
+            "type": "text"
+        },
+        {
+            "component": "text-field",
+            "name": "last-name",
+            "label": "Last name",
+            "type": "text"
+        }
+    ]
+}
